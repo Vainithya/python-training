@@ -1,0 +1,6 @@
+s={9,7,5,1,3}
+max_value=max(s)
+min_value=min(s)
+print(f"maximum value in the set is: {max_value}")
+print(f"minimum value in the set is: {min_value}")
+
